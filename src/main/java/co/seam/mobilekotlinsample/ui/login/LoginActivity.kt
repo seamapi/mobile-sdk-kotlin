@@ -137,7 +137,7 @@ class LoginActivity : AppCompatActivity() {
 
               if (seamDeviceController == null) {
 
-                val clientSessionTokenFromServer = password.text.toString().trim() // seam_cst12PDW6X9z_5XR8KSnjBQSiphichEQHo2Qr
+                val clientSessionTokenFromServer = password.text.toString().trim()
                 System.out.println("Provided Client Session Token: \"$clientSessionTokenFromServer\"")
 
                 seamDeviceController =
