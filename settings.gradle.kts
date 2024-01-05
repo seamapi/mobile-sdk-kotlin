@@ -15,9 +15,5 @@ dependencyResolutionManagement {
     flatDir {
       dir(rootDir.resolve("libs"))
     }
-
   }
 }
-
-include(":seam-phone-sdk-android")
-project(":seam-phone-sdk-android").projectDir = File("../seam-phone-android/seam-phone-sdk-android")
