@@ -5,6 +5,8 @@ entrances. For more information about the [Seam Mobile SDK, see the docs](https:
 
 All of the Seam Code is in this [LoginActivity.kt](https://github.com/seamapi/sample-app-mobile-sdk-kotlin/blob/main/src/main/java/co/seam/mobilekotlinsample/ui/login/LoginActivity.kt)!
 
+You can also [download an apk file to install the sample app to an android phone](https://github.com/seamapi/sample-app-mobile-sdk-kotlin/releases)
+
 ![](https://i.imgur.com/W3SnrBK.png)
 
 ## Installation
