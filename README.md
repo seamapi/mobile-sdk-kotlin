@@ -3,6 +3,8 @@
 This is a sample mobile app using the Seam Mobile SDK to unlock Visionline
 entrances. For more information about the [Seam Mobile SDK, see the docs](https://docs.seam.co/latest/products/mobile-access-in-development)
 
+All of the Seam Code is in this [LoginActivity.kt](https://github.com/seamapi/sample-app-mobile-sdk-kotlin/blob/main/src/main/java/co/seam/mobilekotlinsample/ui/login/LoginActivity.kt)!
+
 ![](https://i.imgur.com/W3SnrBK.png)
 
 ## Installation
